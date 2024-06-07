@@ -1,5 +1,5 @@
 # Real-Time Collaborative Code Editor
-To view the live demo of this project [Click here](https://code4nitte.vercel.app).
+To view the live demo of this project [Click here](https://realtime-code-editor-alden-olivero.vercel.app/).
 ## Overview
 This project is a real-time code editor designed to support seamless collaboration among developers. It provides a platform for multiple users to work together on code snippets in real-time, with features like instant feedback, collaborative room management, and code compilation. The project leverages WebSockets to enable low-latency communication, making it ideal for scenarios like pair programming, collaborative code reviews, and team-based development projects.
 
